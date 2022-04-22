@@ -1,0 +1,10 @@
+{
+  "nrf-connect.topdir": "c:\\NordicSDK\\v1.9.1",
+  "nrf-connect.toolchain.path": "c:\\NordicSDK\\v1.9.1\\toolchain",
+  "nrf-connect.applications": [
+    "c:\\iHandle\\hello_world_test1wires"
+  ],
+  "files.associations": {
+    "w1_sensor.h": "c"
+  }
+}

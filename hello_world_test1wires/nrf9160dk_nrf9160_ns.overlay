@@ -1,0 +1,19 @@
+// To get started, press Ctrl+Space to bring up the completion menu and view the available nodes.
+// For more help, browse the DeviceTree documentation at https://docs.zephyrproject.org/latest/guides/dts/index.html
+/ {
+    gpiocustom {
+        compatible = "gpio-leds";
+        gpiocus10: gpiocus_10 {
+            gpios = <&gpio0 10 (GPIO_PULL_UP | GPIO_ACTIVE_LOW)>; 
+            label = "ds18b20 sensor DQ-pin";
+        };
+        gpiocus11: gpiocus11 {
+            gpios = <&gpio0 11 GPIO_ACTIVE_LOW>;
+            label = "Custom gpio 11";
+        };
+    };
+    aliases {
+        gpiocus10 = &gpiocus10;
+        gpiocus11 = &gpiocus11;
+    };
+};

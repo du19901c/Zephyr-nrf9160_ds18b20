@@ -1,0 +1,13 @@
+# Target labels
+ spm_subimage
+# Source files and their labels
+C:/iHandle/hello_world_test1wires/build/modules/nrf/samples/CMakeFiles/spm_subimage
+C:/iHandle/hello_world_test1wires/build/modules/nrf/samples/CMakeFiles/spm_subimage.rule
+C:/iHandle/hello_world_test1wires/build/modules/nrf/samples/CMakeFiles/spm_subimage-complete.rule
+C:/iHandle/hello_world_test1wires/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-build.rule
+C:/iHandle/hello_world_test1wires/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-configure.rule
+C:/iHandle/hello_world_test1wires/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-download.rule
+C:/iHandle/hello_world_test1wires/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-install.rule
+C:/iHandle/hello_world_test1wires/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-mkdir.rule
+C:/iHandle/hello_world_test1wires/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-patch.rule
+C:/iHandle/hello_world_test1wires/build/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-update.rule
